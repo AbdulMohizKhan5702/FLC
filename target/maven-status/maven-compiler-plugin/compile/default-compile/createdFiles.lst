@@ -1,0 +1,11 @@
+flc\data\DataLoader.class
+flc\model\Review.class
+flc\ui\FLCConsoleApp.class
+flc\model\Lesson.class
+flc\model\TimeSlot.class
+flc\report\ReportGenerator.class
+flc\model\Day.class
+flc\service\Timetable.class
+flc\model\Booking.class
+flc\model\ExerciseType.class
+flc\model\Member.class
