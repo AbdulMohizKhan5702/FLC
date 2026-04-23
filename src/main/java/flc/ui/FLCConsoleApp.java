@@ -8,7 +8,7 @@ import flc.service.Timetable;
 import java.util.*;
 
 /**
- * Simple console UI for the FLC booking system.
+ * Simple console UI for the FLC booking system.///
  */
 public class FLCConsoleApp {
     private Timetable timetable;
