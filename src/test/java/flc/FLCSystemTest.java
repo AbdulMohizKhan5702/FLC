@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
 @TestMethodOrder(MethodOrderer.DisplayName.class)
 public class FLCSystemTest {
 
-    // Fresh instances per test class to avoid state bleed
+    // Fresh instances per test class to avoid state bleed ////
     private ExerciseType yoga;
     private ExerciseType zumba;
     private ExerciseType boxFit;
