@@ -13,7 +13,7 @@ public class Lesson {
     private static final int CAPACITY = 4;
     private List<Member> members;
     private List<Review> reviews;
-
+//////
     public Lesson(ExerciseType exerciseType, Day day, TimeSlot timeSlot, int week) {
         this.lessonId     = "L" + (counter++);
         this.exerciseType = exerciseType;
