@@ -14,7 +14,7 @@ public class ReportGenerator {
     }
 
     /**
-     * Report 1: attendance and average rating per lesson, grouped by week and day.//
+     * Report 1: attendance and average rating per lesson, grouped by week and day.////////
      */
     public void printAttendanceReport() {
         System.out.println("\n========================================");
