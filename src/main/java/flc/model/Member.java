@@ -22,7 +22,7 @@ public class Member {
      * Books a lesson for the given week.
      * Returns the Booking on success, null if the lesson is full,
      * already booked, or has a time conflict.
-     */
+     *///
     public Booking makeBooking(Lesson lesson, int week) {
         if (lesson.isFull()) return null;
         if (lesson.hasMember(this)) return null;
